@@ -2,7 +2,7 @@
 
 This repository provides R code implementing Gibbs sampler for matrix generalized inverse Gaussian (MGIG) distributions, as proposed by the following paper.
 
-Hamura, Y., Irie, K. and Sugasawa, S. (2023). Gibbs sampler for matrix generalized inverse Gaussian distribution. *arXiv:2302.09707*.
+Hamura, Y., Irie, K. and Sugasawa, S. (2023). Gibbs sampler for matrix generalized inverse Gaussian distribution. *Journal of Computational and Graphical Statistics, in press. (arXiv:2302.09707)* 
 
 The repository includes the following files.
 
